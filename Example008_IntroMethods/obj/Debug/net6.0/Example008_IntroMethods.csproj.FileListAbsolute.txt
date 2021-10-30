@@ -1,0 +1,16 @@
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.GlobalUsings.g.cs
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.csproj.AssemblyReference.cache
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.AssemblyInfoInputs.cache
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.AssemblyInfo.cs
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.csproj.CoreCompileInputs.cache
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\bin\Debug\net6.0\Example008_IntroMethods.exe
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\bin\Debug\net6.0\Example008_IntroMethods.deps.json
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\bin\Debug\net6.0\Example008_IntroMethods.runtimeconfig.json
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\bin\Debug\net6.0\Example008_IntroMethods.dll
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\bin\Debug\net6.0\ref\Example008_IntroMethods.dll
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\bin\Debug\net6.0\Example008_IntroMethods.pdb
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.dll
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\ref\Example008_IntroMethods.dll
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.pdb
+C:\Users\lelya\Desktop\Уроки по C#\Example008_IntroMethods\obj\Debug\net6.0\Example008_IntroMethods.genruntimeconfig.cache
